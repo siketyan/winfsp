@@ -25,6 +25,7 @@
 
 #include <errno.h>
 #include <stdint.h>
+#include <string.h>
 #if !defined(WINFSP_DLL_INTERNAL)
 #include <stdlib.h>
 #endif
